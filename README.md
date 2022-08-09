@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vinod Ambati</h1>
 <h3 align="center">I am currently pursuing B.E in electronics engineering.I am passionate about Web Dev</h3>
+<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhe" /> </p>
 
@@ -8,6 +9,7 @@
 - 📫 How to reach me **vaibhavambati28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/vaibhavambati28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/vaibhavambati28/" height="30" width="40" /></a>
 </p>
