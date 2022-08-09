@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vinod Ambati</h1>
 <h3 align="center">I am currently pursuing B.E in electronics engineering.I am passionate about Web Dev</h3>
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrsmGd67GVmOFSsPzqCFzjRa0tRdaBrsrw_g&usqp=CAU">
+<img align="right" alt="Coding" width="300" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhe" /> </p>
 
