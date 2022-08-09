@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhe" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript** and DSA
 
 - 📫 How to reach me **vaibhavambati28@gmail.com**
 
